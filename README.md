@@ -1,4 +1,4 @@
-### hey there 
+### Note: Example page only - All contact details are placeolders
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Levi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
